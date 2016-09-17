@@ -7,3 +7,4 @@ Homestead.yaml
 .env
 
 *.sublime-workspace
+*.sublime-project
